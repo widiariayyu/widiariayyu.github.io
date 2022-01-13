@@ -538,7 +538,7 @@ xclip
 
 .section-title {
     display: block;
-    position: relative;
+    position: relative; 
     margin-bottom: 40px;
 }
 
