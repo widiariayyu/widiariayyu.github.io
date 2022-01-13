@@ -467,7 +467,7 @@ xclip
     display: block;
     position: relative;
     overflow: hidden;
-    padding: 70px 0;
+    padding: 20px 0;
 }
 
 .noover {
@@ -654,7 +654,7 @@ xclip
 
 
 .services-inner-box{
-	padding: 10px;
+	padding: 40px;
 	background: #ffffff;
 	margin-bottom: 30px;
 }
@@ -1209,7 +1209,7 @@ xclip
 
 .message-box h2 {
     font-size: 38px;
-    font-weight: 400;
+    font-weight: 500;
     padding: 0 0 10px;
     margin: 0;
     line-height: 62px;
