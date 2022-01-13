@@ -133,9 +133,10 @@
 	}
 	.message-box{
 		margin-bottom: 30px;
+		padding: 15px;
 	}
 	.filter-button-group button{
-		padding: 12px 27px;
+		padding: 12px 10px;
 	}
 	.filter-button-group{
 		text-align: center !important;

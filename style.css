@@ -379,7 +379,7 @@ a img.aligncenter {
 }
 .heading p{
 	font-size: 18px;
-	padding: 15px 0px;
+	padding: 15px 20px;
 }
 
 .heading h3{
@@ -539,7 +539,7 @@ xclip
 .section-title {
     display: block;
     position: relative;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 .section-title p {
@@ -555,7 +555,7 @@ xclip
     font-weight: 500;
     line-height: 62px;
     margin: 0 0 25px;
-    padding: 0;
+    padding: 3px;
     text-transform: none;
 }
 
